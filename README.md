@@ -166,4 +166,4 @@ Complete the following tasks:
 1. Update the `README.md` file so that the github actions badge points to your repo
 1. Implement the `is_valid_path`, `is_valid_attack_path`, `cost_of_attack_path`, `shortest_path`, `can_reinforce`, `cheapest_attack_path`, and `can_attack` functions.
 1. Submit the link to your github repo into sakai.
-
+(fun)
